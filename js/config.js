@@ -111,7 +111,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "TheFatRat-Rise-Up.ogg", name: "Rise Up - The Fat Rat"},
+	{ogg: "Zedd, Alessia Cara - Stay (Lyric Video).ogg", name: "Zedd, Alessia Cara - Stay"},
 	{ogg: "", name: ""},
 ];
 
