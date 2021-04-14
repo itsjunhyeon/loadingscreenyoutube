@@ -55,7 +55,7 @@ var l_bgVideo = true;
 // Just make sure they are using webm VP8 format 
 // (Place the videos in the backgrounds/videos folder)
 // (You can also use external URL)
-var l_background = "aurora.webm";
+var l_background = "";
 
 // (Image-background only)
 // Enable map-based background image?
@@ -72,7 +72,9 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	""
+	"touhou01.jpg",
+	"touhou02.jpg",
+	"touhou03.jpg"
 ];
 
 // (Image-background only)
@@ -83,7 +85,7 @@ var l_bgImagesRandom = true;
 // (Image-background only)
 // Delay between background images changes
 // in milliseconds
-var l_bgImageDuration = 5000;
+var l_bgImageDuration = 2500;
 
 // (Image-background only)
 // Image background fade velocity
@@ -111,7 +113,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "Zedd, Alessia Cara - Stay (Lyric Video).ogg", name: "Zedd, Alessia Cara - Stay"},
+	{ogg: "Zedd, Alessia Cara - Stay (Lyric Video).ogg", name: "Duck Bae - Stay"},
 	{ogg: "", name: ""},
 ];
 
@@ -131,14 +133,14 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"서버에 접속하신 것을 환영합니다.",
 	"서버에 처음 접속하셨나요? 시간이 다소 걸릴 수 있습니다.",
-	"맵 파일이 보이지 않거나, 모델 에러가 나오는 경우 서버 운영진에게 연락해주세요.",
-	"현재 서버는 네이버 카페를 운영중입니다.",
-	"네이버 카페에 가입하셔서 최신 업데이트 정보를 받으세요."
+	"인생에 돈이 전부가 아니지만, 역시 돈 만큼 좋은게 또 없다.",
+	"신사는 걷지, 뛰지않아",
+	"난 위험에 대해 그리 많이 생각지 않는다. 난 그저 내가 하고 싶은 것을 할 뿐이다. 앞으로 나아가야한다면, 나아가면 된다."
 ];
 
 // Random message order?
 // 'true' or 'false'
-var l_messagesRandom = false;
+var l_messagesRandom = true;
 
 // Delay between message changes
 // in milliseconds
