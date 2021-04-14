@@ -22,12 +22,12 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "한국|Gmod DarkRP Online| 시즌 1";
+var l_serverName = "#KOREA DarkRP Online";
 
 // Use a video for the background?
 // Otherwise it will use images
 // 'true' or 'false'
-var l_bgVideo = true;
+var l_bgVideo = false;
 
 // Default available videos:
 // "aurora.webm"
