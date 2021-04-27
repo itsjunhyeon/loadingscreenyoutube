@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "#KOREA DarkRP Online";
+var l_serverName = "다크알피 온라인 한국서버";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -112,7 +112,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "Zedd, Alessia Cara - Stay (Lyric Video).ogg", name: "Duck Bae - Stay"},
+	{ogg: "paho.ogg", name: "Paho - 2 Phut Hon"},
 	{ogg: "", name: ""},
 ];
 
