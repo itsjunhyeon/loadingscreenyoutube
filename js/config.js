@@ -130,9 +130,7 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"인생에 돈이 전부가 아니지만, 역시 돈 만큼 좋은게 또 없다.",
-	"신사는 걷지, 뛰지않아",
-	"난 위험에 대해 그리 많이 생각지 않는다. 난 그저 내가 하고 싶은 것을 할 뿐이다. 앞으로 나아가야한다면, 나아가면 된다."
+	"now developing"
 ];
 
 // Random message order?
